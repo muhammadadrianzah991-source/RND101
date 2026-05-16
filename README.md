@@ -5,9 +5,16 @@ This application has no ******** mapping for /error, so you are seeing this as a
 
 (type=Not Found, status=404). ███████▓█████▓▓╬╬╬╬╬╬╬╬▓███▓╬╬╬╬╬╬╬▓╬╬▓█ ████▓▓▓▓╬╬▓█████╬╬╬╬╬╬███▓╬╬╬╬╬╬╬╬╬╬╬╬╬█ ███▓▓▓▓╬╬╬╬╬╬▓██╬╬╬╬╬╬▓▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ ████▓▓▓╬╬╬╬╬╬╬▓█▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ ███▓█▓███████▓▓███▓╬╬╬╬╬╬▓███████▓╬╬╬╬▓█ ████████████████▓█▓╬╬╬╬╬▓▓▓▓▓▓▓▓╬╬╬╬╬╬╬█ ███▓▓▓▓▓▓▓╬╬▓▓▓▓▓█▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ ████▓▓▓╬╬╬╬▓▓▓▓▓▓█▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ ███▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ █████▓▓▓▓▓▓▓▓█ YOYO - TV ╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ █████▓▓▓▓▓▓▓██▓▓▓█▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬██ █████▓▓▓▓▓████▓ YOYO - TV ╬╬╬╬╬╬╬╬╬╬╬╬██ ████▓█▓▓▓▓██▓▓▓▓██╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬██ ████▓▓███▓▓▓▓▓▓▓██▓╬╬╬╬╬╬╬╬╬╬╬╬█▓╬▓╬╬▓██ █████▓███▓▓▓▓▓▓▓▓████▓▓╬╬╬╬╬╬╬█▓╬╬╬╬╬▓██ █████▓▓█▓███▓▓▓████╬▓█▓▓╬╬╬▓▓█▓╬╬╬╬╬╬███ ██████▓██▓███████▓╬╬╬▓▓╬▓▓██▓╬╬╬╬╬╬╬▓███ ███████▓██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓╬╬╬╬╬╬╬╬╬╬╬████ ███████▓▓██▓▓ YOYO - TV ╬╬╬╬╬╬╬╬╬▓██████ ████████▓▓▓█████▓▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█████ █████████▓▓▓█▓▓▓▓▓███▓╬╬╬╬╬╬╬╬╬╬╬▓██████ ██████████▓▓▓█▓▓▓╬▓██╬╬╬╬╬╬╬╬╬╬╬▓███████ ███████████▓▓█▓▓▓▓███▓╬╬╬╬╬╬╬╬╬▓████████ ██████████████▓▓▓███▓▓╬╬╬╬╬╬╬╬██████████ ███████████████▓▓▓██▓▓╬╬╬╬╬╬▓███████████ ██████████▓▓▓█▓▓▓╬▓██╬╬╬╬╬╬╬╬╬╬╬▓███████ ██████████▓▓▓█▓▓▓╬▓██╬╬╬╬╬╬╬╬╬╬╬▓███████
 
-#EXTM3U
 
-#EXTM3U #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.imgur.com/HYgxPVQ.png",MyTime Movie Network https://mytime-tcl.amagi.tv/playlist.m3u8 #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8 #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s",MovieDome Family https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8 #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.imgur.com/T7bGKeV.jpg",&PRIVE ᴴᴰ https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+
+#EXTM3U 
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.imgur.com/HYgxPVQ.png",MyTime Movie Network https://mytime-tcl.amagi.tv/playlist.m3u8 
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8 
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s",MovieDome Family https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8 
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.imgur.com/T7bGKeV.jpg",&PRIVE ᴴᴰ https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/c7/4e/f2/c74ef24d62e7b57011e78eb48a128863.jpg",MYTIME MOVIE https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
