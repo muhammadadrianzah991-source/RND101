@@ -1,4 +1,3 @@
-# RND101
 
 Whitelabel Error Page
 
