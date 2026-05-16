@@ -7,7 +7,8 @@ This application has no ******** mapping for /error, so you are seeing this as a
 
 
 
-#EXTM3U 
+#EXTM3U
+
 #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.imgur.com/HYgxPVQ.png",MyTime Movie Network https://mytime-tcl.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8 
